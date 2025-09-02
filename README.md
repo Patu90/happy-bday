@@ -15,11 +15,11 @@ It’s designed to give a personalized, animated and heartwarming experience whe
 ---
 
 ## 📂 Project Structure
--happy-bday-main/
-── index.html # Main birthday card page
-── style.css # Styling for the card
-── script.js # Interactivity for opening/closing card
-── assets/ # Images, fonts or other resources
+- happy-bday-main/
+- index.html # Main birthday card page
+- style.css # Styling for the card
+- script.js # Interactivity for opening/closing card
+- assets/ # Images, fonts or other resources
 
 
 ## Simply open the index.html file in your browser:
