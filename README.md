@@ -23,6 +23,6 @@ happy-bday-main/
 
 
 ## Simply open the index.html file in your browser:
-open index.html   # Mac
-xdg-open index.html  # Linux
-start index.html  # Windows
+- open index.html   # Mac
+- xdg-open index.html  # Linux
+- start index.html  # Windows
